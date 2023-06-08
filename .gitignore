@@ -1,0 +1,7 @@
+*.exe
+*.pyc
+*.sqlite3
+
+ENV/
+static/
+!setup/static/
